@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kupu.sip</groupId>
-	<artifactId>voice-ai-sip</artifactId>
+	<artifactId>voip</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>voice-ai-sip</name>
+	<name>voip</name>
 	<description>Voice AI SIP Communication System</description>
 	<properties>
 		<java.version>8</java.version>
