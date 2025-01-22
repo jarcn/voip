@@ -1,0 +1,41 @@
+# VSCode 配置文件
+.vscode/
+
+# Maven 构建目录
+target/
+
+# 编译文件
+*.class
+
+# 日志文件
+*.log
+
+# 包文件
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 虚拟机崩溃日志
+hs_err_pid*
+replay_pid*
+
+# IDE 配置文件
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Maven 特定文件
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties 
